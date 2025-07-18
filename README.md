@@ -6,7 +6,7 @@ Este proyecto es un backend que utiliza **Node.js** y el framework **Express.js*
 
 ## 🚀 Iniciando el Proyecto
 
-Para ejecutar el proyecto hay que clonar el proyecto una vez clonado el proyecto ejecutamos la siguiente linea en la consola de VSC:
+Para ejecutar el proyecto hay que clonar el proyecto. Una vez clonado el proyecto ejecutamos la siguiente linea en la consola de VSC:
 
 ```bash
 npm install
